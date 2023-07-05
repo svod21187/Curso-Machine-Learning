@@ -12,5 +12,5 @@ Bucles for y while
 M5 - 10 Pandas
 Ejercicios para aprender a trabajar con la librería Pandas<br>
 SPACE X -1
-Proyecto Space X: predecir si un cohete Falcon 9 aterrizará con éxito o no
+Proyecto Space X: predecir si un cohete Falcon 9 aterrizará con éxito o no<br>
 En este archivo los datos son recogidos mediante la API de SpaceX y damos un formato adecuado para las fases siguientes.
